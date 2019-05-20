@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LfuCache", "LfuCache\LfuCache.csproj", "{B0D50CAC-5956-49B8-8BDC-93930E4C45FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LfuCacheBenchmarks", "LfuCacheBenchmarks\LfuCacheBenchmarks.csproj", "{717774B7-0C8E-4196-8801-FA0EF796905A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LfuCacheTests", "LfuCacheTests\LfuCacheTests.csproj", "{ADB67AC9-7566-4EB2-97C1-7065FEB04593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D50CAC-5956-49B8-8BDC-93930E4C45FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D50CAC-5956-49B8-8BDC-93930E4C45FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D50CAC-5956-49B8-8BDC-93930E4C45FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D50CAC-5956-49B8-8BDC-93930E4C45FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717774B7-0C8E-4196-8801-FA0EF796905A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717774B7-0C8E-4196-8801-FA0EF796905A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717774B7-0C8E-4196-8801-FA0EF796905A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717774B7-0C8E-4196-8801-FA0EF796905A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB67AC9-7566-4EB2-97C1-7065FEB04593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB67AC9-7566-4EB2-97C1-7065FEB04593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB67AC9-7566-4EB2-97C1-7065FEB04593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB67AC9-7566-4EB2-97C1-7065FEB04593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
